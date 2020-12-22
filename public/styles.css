@@ -1,0 +1,14 @@
+body {
+    background: url(./resources/mountain.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#about {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#resume {
+    width: 150%;
+}
