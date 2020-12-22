@@ -3,6 +3,10 @@ body {
     background-size: cover;
 }
 
+footer {
+    position: relative;
+}
+
 #about {
     margin-top: 5%;
     margin-left: 10%;
@@ -10,5 +14,6 @@ body {
 }
 
 #resume {
-    width: 150%;
+    width: 120%;
 }
+
