@@ -3,9 +3,6 @@ body {
     background-size: cover;
 }
 
-footer {
-    position: relative;
-}
 
 #about {
     margin-top: 5%;
@@ -15,5 +12,9 @@ footer {
 
 #resume {
     width: 120%;
+}
+
+.tab {
+    margin-left: 20px;
 }
 
