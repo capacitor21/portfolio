@@ -2,7 +2,6 @@ import React from 'react'
 import { Container, Row, Col, Image, Card } from 'react-bootstrap'
 import { Fade } from 'react-reveal'
 import resumeImage from '../assets/resume.jpg'
-//import resumePdf from '../assets/Michael_DeDreu_Resume.pdf'
 
 export const Resume = () => {
     return (
@@ -14,7 +13,7 @@ export const Resume = () => {
                             <Card bg='dark' style={{ borderRadius: '2%', padding: '2%'}}>
                                 <Card.Body>
                                     <h1 style={{textAlign: 'left'}}>Resume</h1>
-                                    <a href='../assets/Michael_DeDreu_Resume.pdf' target = "_blank">
+                                    <a href='../Michael_DeDreu_Resume.pdf' download>
                                         <Image src={resumeImage} thumbnail />
                                     </a>
                                 </Card.Body>
