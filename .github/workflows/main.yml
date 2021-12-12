@@ -24,10 +24,8 @@ jobs:
         
       - name: Build React App
         run: npm run build
-  
-  deploy:    
-    runs-on: ubuntu-latest
-    steps:
+        
+      - name: Deploy to S3
       - uses: actions/checkout@master
       - uses: shallwefootball/s3-upload-action@master
         with:
