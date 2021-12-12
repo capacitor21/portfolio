@@ -1,5 +1,5 @@
 # Portfolio Site
-Portfolio website to showcase my projects and experience.
+Portfolio website to showcase my projects and experience. Check it out here! [mdedreu.com](https://mdedreu.com)
 ## Tech
 - Frameworks
   - React
@@ -13,4 +13,4 @@ Portfolio website to showcase my projects and experience.
 ![Architecture Diagram!](/src/assets/architecture.jpeg "Architecture Diagram")
 
 
-Check it out here! [mdedreu.com](https://mdedreu.com)
+
