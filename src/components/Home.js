@@ -1,10 +1,10 @@
 import { Component } from 'react'
-import { Container, Row, Col, Image } from 'react-bootstrap'
+import { Container, Row, Col } from 'react-bootstrap'
 import { Fade } from 'react-reveal'
-import { Navigation } from './Navigation'
+// import { Navigation } from './Navigation'
 import { About } from './About'
-import { Projects } from './Projects'
-import resume from '../assets/resume.pdf'
+// import { Projects } from './Projects'
+// import resume from '../assets/resume.pdf'
 
 export class Home extends Component {
   constructor (props) {

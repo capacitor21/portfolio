@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
-import background from './assets/mountains.jpg'
 
 ReactDOM.render(
   <App />,
