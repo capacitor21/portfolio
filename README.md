@@ -1,10 +1,15 @@
 # Portfolio Site
 Portfolio website to showcase my projects and experience.
 ## Tech
-- React 
-- Bootstrap for styling
-- Hosted in AWS S3
-- Route53 for DNS and CloudFront for caching
+- Frameworks
+  - React
+  - Bootstrap for styling
+- Infrastructure
+  - Hosted in AWS S3
+  - AWS Route53 for DNS
+  - AWS CloudFront for caching
+- CI/CD
+  - Automated builds and deployments to S3 using Github Actions when pull request is approved to the main branch
 ![Architecture Diagram!](/src/assets/architecture.jpeg "Architecture Diagram")
 
 
