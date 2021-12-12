@@ -1,5 +1,5 @@
 import { Component } from 'react'
-import { Navbar, Nav, Container, Badge } from 'react-bootstrap'
+import { Navbar, Nav, Container } from 'react-bootstrap'
 
 export class Navigation extends Component {
   render () {
