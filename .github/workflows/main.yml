@@ -18,6 +18,9 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
+      
+      - name: Linting
+        run: npm run lint
 
       - name: Install Dependencies
         run: npm install 
