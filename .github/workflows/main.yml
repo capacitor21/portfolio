@@ -32,7 +32,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
         
-      - name: Deploy to S#
+      - name: Deploy to S3
         run: aws s3 sync ./build/ s3://www.mdedreu.com --delete
       
 
