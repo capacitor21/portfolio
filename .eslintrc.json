@@ -28,6 +28,7 @@
             4
         ],
         "linebreak-style": [
+            "off",
             "windows"
         ],
         "quotes": [
