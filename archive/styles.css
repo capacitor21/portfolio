@@ -1,5 +1,5 @@
 body {
-    background: url(./resources/mountain.jpg) no-repeat center center fixed;
+    background: url(./resources/mountains.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -16,5 +16,9 @@ body {
 
 .tab {
     margin-left: 20px;
+}
+
+footer {
+    padding: 10px, 10px, 10px, 10px;
 }
 
