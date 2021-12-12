@@ -1,4 +1,3 @@
-import { Component } from 'react'
 import { Container } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
@@ -13,14 +12,14 @@ const App = () => {
   return (
     <div className='App'>
       <Container className='pt-5' fluid>
-        <Navigation/>
-        <Home/>
-        <About/>
-        <Resume/>
-        <Contact/>
+        <Navigation />
+        <Home />
+        <About />
+        <Resume />
+        <Contact />
       </Container>
     </div>
   )
 }
 
-export default App;
+export default App
