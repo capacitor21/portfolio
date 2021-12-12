@@ -1,17 +1,17 @@
 export const projects = [
-  {
-    title: 'Photo Library App',
-    subtitle: 'MERN Stack',
-    description:
+    {
+        title: 'Photo Library App',
+        subtitle: 'MERN Stack',
+        description:
         'Created an app in Android Studio, to load photos from a users device where the user can create albums and add custom tags to there photos.',
-    image: '../assets/photodisplay.jpg'
-  },
-  {
-    title: 'HTTP Server',
-    subtitle: 'React and Python',
-    description: 'Developed a multi-threaded HTTP server from scatch in Java that accepts GET, POST, and HEAD requests from clients and responds with a well-formed HTTP response. The server is also capable of running CGI scripts with optional parameters from post requests',
-    image: './project-2.gif'
-  }
+        image: '../assets/photodisplay.jpg'
+    },
+    {
+        title: 'HTTP Server',
+        subtitle: 'React and Python',
+        description: 'Developed a multi-threaded HTTP server from scatch in Java that accepts GET, POST, and HEAD requests from clients and responds with a well-formed HTTP response. The server is also capable of running CGI scripts with optional parameters from post requests',
+        image: './project-2.gif'
+    }
 ]
 
 /**

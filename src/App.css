@@ -14,10 +14,8 @@ body {
   height: 100vh;
   position: relative;
   font-family: 'Readex Pro';
-}
-
-.nav-item > .active {
-  color: 1px solid #333;
+  color:rgb(255, 255, 255);
+  padding-top: 10%;
 }
 
 .centerRow {
@@ -51,8 +49,12 @@ body {
   height: 100vh
 }
 
+.navigation-section {
+  color:rgb(255, 255, 255);
+}
+
 .contact-section {
-  height: 100vh
+  height: 30vh
 }
 
 
