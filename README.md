@@ -5,5 +5,7 @@ Portfolio website to showcase my projects and experience.
 - Bootstrap for styling
 - Hosted in AWS S3
 - Route53 for DNS and CloudFront for caching
+(/src/assets/architecture.jpeg "Architecture Diagram")
+
 
 Check it out here! [mdedreu.com](https://mdedreu.com)
