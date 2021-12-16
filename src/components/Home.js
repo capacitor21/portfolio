@@ -6,7 +6,7 @@ import avatar from '../assets/avatar.png'
 export const Home = () => {
     return (
         <section id='title' className='home-section'>
-            <Container className='align-items-center' style={{ justifyContent: 'center', height: '100vh'}}>
+            <Container className='my-5 min-vh-100'>
                 <Fade top duration={2000} delay={500} distance='30px' style={{ height: '100vh'}}>
                     <Row className='pt-5 centerRow flex-grow-1'>
                         <Col md={8}>

@@ -7,7 +7,7 @@ export const Resume = () => {
     return (
         <section id='resume' className='resume-section'>
             <Fade bottom duration={1000} delay={250} distance='30px'>
-                <Container className='align-items-center'>
+                <Container className='mx-auto min-vh-70 my-5'>
                     <Row>
                         <Col md={9}>
                             <Card bg='dark' style={{ borderRadius: '2%', padding: '2%'}}>
