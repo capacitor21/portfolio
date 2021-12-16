@@ -7,7 +7,7 @@ export const About = () => {
     return (
         <section id='about' className='about-section'>
             <Fade bottom duration={1000} delay={250} distance='30px'>
-                <Container className='pt-5 align-items-center' style={{ backgroundColor: 'transparent' }}>
+                <Container className='mx-auto min-vh-100 my-2' style={{ backgroundColor: 'transparent' }}>
                     <Row>
                         <Col md={8}>
                             <Card bg='dark' style={{ borderRadius: '2%', padding: '1%'}}>
